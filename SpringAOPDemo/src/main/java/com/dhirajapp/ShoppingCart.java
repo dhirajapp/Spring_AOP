@@ -11,4 +11,9 @@ public class ShoppingCart {
 	 // sanitize data
 	 System.out.println("Chekout method from shoppingcart called.");
  }
+ 
+ public int quntity() {
+	 return 2;
+ }
+ 
 }
